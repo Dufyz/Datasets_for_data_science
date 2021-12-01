@@ -14,3 +14,4 @@ Here is all my datasets that i use for data science exploration.
 - Cancer
 - Airline Passangers
 - Car Miliage
+- Bike Store
