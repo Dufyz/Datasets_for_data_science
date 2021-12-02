@@ -15,3 +15,4 @@ Here is all my datasets that i use for data science exploration.
 - Airline Passangers
 - Car Miliage
 - Bike Store
+- Imdb (Poruguese and English)
