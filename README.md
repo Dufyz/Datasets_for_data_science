@@ -16,3 +16,4 @@ Here is all my datasets that i use for data science exploration.
 - Car Miliage
 - Bike Store
 - Imdb (Poruguese and English)
+- StackOverFlow (Portuguese, English and Spanish)
