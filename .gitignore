@@ -2,3 +2,4 @@
 databases/datasets/Imdb-en-ptbr.csv
 databases/datasets/News_test_pt01.csv
 databases/datasets/News_train_pt02.csv
+Word2Vec/datas/word2vec_cbow_s300.txt
