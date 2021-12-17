@@ -5,3 +5,6 @@ databases/datasets/News_train_pt02.csv
 Word2Vec/datas/word2vec_cbow_s300.txt
 Word2Vec/datas/Nilc/Skipgram/word2_vec_skip_s300.txt
 Word2Vec/datas/Nilc/Cbow/word2vec_cbow_s300.txt
+df's-db's-ds's/databases/datasets/Imdb-en-ptbr.csv
+df's-db's-ds's/databases/datasets/News_test_pt01.csv
+df's-db's-ds's/databases/datasets/News_train_pt02.csv
